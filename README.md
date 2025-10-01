@@ -13,7 +13,7 @@ React application (Vite + Redux Toolkit + Material-UI) for managing clients.
 ### Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/GleyceEllen/client-flow-frontend.git
 cd client-flow-frontend
 
 # Install dependencies
