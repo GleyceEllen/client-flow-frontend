@@ -1,0 +1,26 @@
+{
+  "clients": [
+    {
+      "name": "gleyce",
+      "email": "gleyce@gmail.com",
+      "phone": "11966503639",
+      "address": "Rua Regina Cabalau Mendonça",
+      "city": "Suzano",
+      "state": "SP",
+      "zip": "08675460",
+      "country": "br",
+      "id": "6df2"
+    },
+    {
+      "name": "Teste",
+      "email": "teste@gmail.com",
+      "phone": "2193198237",
+      "address": "Rua Manuel Sebastião",
+      "city": "Ferraz de Vasconcelos",
+      "state": "SP",
+      "zip": "08512000",
+      "country": "br",
+      "id": "da7d"
+    }
+  ]
+}
